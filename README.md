@@ -1,5 +1,7 @@
 # Form_PHP
 
+Reading the data from the Form 🗂️ and inserting ✒️into the database 📦 using PHP
+
 ```
 Step 1:
     Make a database & then a Table
@@ -14,9 +16,6 @@ Step 3:
 ```
 ### Done setup
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt='img'>
-
-
-
 
 
 
