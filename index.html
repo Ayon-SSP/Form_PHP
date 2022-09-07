@@ -24,21 +24,22 @@
 
                 <div class="form">
                     <h2>Form</h2>
-                    <form>
+                    <form name="frmContact" method="post" action="php\insert.php">
                         <div class="inputBox">
-                            <input type="text" placeholder="Username">
+                            <input type="text" placeholder="Username" name="userName">
                         </div>
                         <div class="inputBox">
-                            <input type="password" placeholder="PhoneNo">
+                            <input type="text" placeholder="PhoneNo" name="userPhoneno">
                         </div>
                         <div class="inputBox">
-                            <input type="password" placeholder="Age">
+                            <input type="text" placeholder="Age" name="userNum">
                         </div>
                         <div class="inputBox">
-                            <input type="password" placeholder="En no">
+                            <input type="text" placeholder="En no" name="userEN">
                         </div>
                         <div class="inputBox">
-                            <input type="submit" value="Submit">
+                            <input type="submit" name="Submit" value="Submit">
+                            <!-- <input type="submit" name="Submit" id="Submit" value="Submit"> -->
                         </div>
                         <p class="forget">Forget Password? <a href="#">Click Here</a></p>
                         <p class="forget">Don't have an account? <a href="#">Sign Up</p></p>
