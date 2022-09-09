@@ -20,7 +20,10 @@ Step 3:
 
 
 ## ouTput:
+
+<img src="image\HomePage.jpg" alt='img'>
 <img src="image\mkDBAndTB.jpg" alt='img'>
 <img src="image\fORM.jpg" alt='img'>
 <img src="image\aftFormss.jpg" alt='img'>
+<img src="image\deletess.jpg" alt='img'>
 <img src="image\Db view.jpg" alt='img'>

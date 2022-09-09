@@ -10,6 +10,7 @@
 body
 {
     overflow: hidden;
+    background-color: blueviolet;
 
 }
 section
@@ -19,7 +20,7 @@ section
     align-items: center;
     min-height: 100vh;
     /* background-image: url(https://wallpapercave.com/wp/wp2577339.jpg); */
-    background: linear-gradient(to bottom,#f1f4f9,#dff1ff);
+    background: linear-gradient(to bottom,#61666e,#589575);
 }
 section .color
 {
@@ -32,7 +33,8 @@ section .color:nth-child(1)
     top: -350px;
     width: 600px;
     height: 600px;
-    background: #ff359b;
+    background: #91044a;
+    /* background: #ff359b; */
 }
 section .color:nth-child(2)
 {
@@ -40,7 +42,7 @@ section .color:nth-child(2)
     left: 400px;
     width: 600px;
     height: 600px;
-    background: #50fe64;
+    background: #15c62d;
 }
 section .color:nth-child(3)
 {
@@ -48,7 +50,7 @@ section .color:nth-child(3)
     right: 100px;
     width: 600px;
     height: 600px;
-    background: #00d2ff;
+    background: #1898b4;
 }
 section .color:nth-child(4)
 {
@@ -56,7 +58,7 @@ section .color:nth-child(4)
     right: 800px;
     width: 600px;
     height: 600px;
-    background: #fffd87;
+    background: #a2c334;
 }
 /* section .color:nth-child(5)
 {

@@ -23,28 +23,26 @@
             <div class="container">
 
                 <div class="form">
-                    <h2>Operations</h2>
-                    <form name="frmContact" method="post" action="pages\insert.html">
+                    <h2>Insert</h2>
+                    <form name="frmContact" method="post" action="php\insert.php">
                         <div class="inputBox">
-                            <input type="submit" name="Submit" value="Insert">
-                            <!-- <input type="submit" name="Submit" id="Submit" value="Submit"> -->
+                            <input type="text" placeholder="Username" name="userName">
                         </div>
-                    </form>
-                    <form name="frmContact" method="post" action="pages\del.html">
                         <div class="inputBox">
-                            <input type="submit" name="Submit" value="Delete">
-                            <!-- <input type="submit" name="Submit" id="Submit" value="Submit"> -->
+                            <input type="text" placeholder="PhoneNo" name="userPhoneno">
                         </div>
-                    </form>
-                    <form name="frmContact" method="post" action="pages\dis.html">
                         <div class="inputBox">
-                            <input type="submit" name="Submit" value="Dsplay">
-                            <!-- <input type="submit" name="Submit" id="Submit" value="Submit"> -->
+                            <input type="text" placeholder="Age" name="userNum">
                         </div>
+                        <div class="inputBox">
+                            <input type="text" placeholder="En no" name="userEN">
+                        </div>
+                        <div class="inputBox">
+                            <input type="submit" name="Submit" value="Submit">
+                        </div>
+                        <p class="forget">Go Home <a href="../index.html">Click Here</a></p>
                     </form>
                 </div> 
-                
-                
             </div>
         </div>
     </section>    
