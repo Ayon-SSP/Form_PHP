@@ -27,3 +27,12 @@ Step 3:
 <img src="image\aftFormss.jpg" alt='img'>
 <img src="image\deletess.jpg" alt='img'>
 <img src="image\Db view.jpg" alt='img'>
+
+
+**📐 Setup for PHP:**
+1. Download & Install XAMPP(Start the Apache server and MySQL from the XAMPP Control Panel.) or CLI
+2. Folder Location: Place your PHP files in the `htdocs` >> `C:\xampp\htdocs`
+3. phpMyAdmin dashboard `http://localhost/phpmyadmin`
+4. open app `http://localhost/my_crud_project/create.php`.
+
+- - -
